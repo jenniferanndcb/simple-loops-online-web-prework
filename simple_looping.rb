@@ -20,7 +20,7 @@ end
 
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
-  while phrase < 7
+  while phrase < number_of_times
     puts phrase
     phrase += 1 
   end 
