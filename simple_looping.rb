@@ -29,6 +29,7 @@ end
 
 def while_iterator(number_of_times)
   # code your solution here using the "while" keyword
+  counter = 0
   while counter < number_of_times
     puts phrase
     counter += 1 
